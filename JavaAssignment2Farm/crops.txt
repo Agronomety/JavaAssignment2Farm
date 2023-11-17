@@ -1,0 +1,4 @@
+1,Carrot,Root Vegetable,10
+2,Wheat,Cereal,2
+3,Corn,Cereal,5
+4,Lenses,Legumes,3
